@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="RadioButtonAUD">AUD</string>
+    <string name="RadioButtonCAD">CAD</string>
+    <string name="RadioButtonINR">INR</string>
+    <string name="ConvertTo">Convert to</string>
+    <string name="RadioButtonUSD">USD</string>
+    <string name="RadioButtonGBP">GBP</string>
+    <string name="ButtonConvert">Convert</string>
+    <string name="ButtonClear">Clear</string>
+</resources>
